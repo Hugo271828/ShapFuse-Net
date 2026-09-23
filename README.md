@@ -1,7 +1,7 @@
 **The paper is currently under review. Upon completion of the peer-review process, the complete code will be released.**
 
-# 🌟 MVSAF-Net
-Multi-View-guided Scale-Aware Feature Fusion Network for Oral Malignant Ulcer Detection
+# 🌟 ShapFuse-Net
+Shapley-guided multiview and hierarchical fusion for oral mucosal ulcer delineation
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org)
@@ -10,7 +10,7 @@ Multi-View-guided Scale-Aware Feature Fusion Network for Oral Malignant Ulcer De
 > 📢 Technical details of this project are currently under paper review. Partial implementation code will be progressively disclosed based on the paper acceptance status. Stay tuned for updates.
 
 ## 📖 Project Overview
-This project proposes a novel **MVSAF-Net** architecture for **oral malignant ulcer detection**. Key innovations include:
+This project proposes a novel **ShapFuse-Net** architecture for **oral malignant ulcer detection**. Key innovations include:
 - Multi-view Encoding Module
 - Scale-aware Attention Mechanism
 - Mutual Information-based Hierarchical Semantic Feature Fusion
